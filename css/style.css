@@ -1,0 +1,15 @@
+body{
+	font-family: Comic Sans, Comic Sans MS, cursive;
+	margin: 0;
+}
+
+.left{
+	width: 25%;
+	background-color: blue;
+	float: left;
+	
+}
+
+.main{
+	margin-left: 210px
+}
